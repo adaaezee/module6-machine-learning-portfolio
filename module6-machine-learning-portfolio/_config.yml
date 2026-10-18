@@ -1,0 +1,8 @@
+title: Adaeze Ugochukwu | Machine Learning e-Portfolio
+description: MSc Artificial Intelligence, University of Essex Online
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
