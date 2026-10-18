@@ -14,7 +14,7 @@ Both projects use the same dataset: the 2019 New York City Airbnb listings (Dgom
 | [Team project (Unit 6)](projects/unit-06-team-project/) | Group report, my clustering contribution, team evidence, tutor feedback |
 | [Individual project (Unit 11)](projects/unit-11-individual-presentation/) | Notebook, results, figures, demonstration and transcript |
 | [Evaluation: Unit 11 vs Unit 6](evaluation.md) | How the final project compares with the initial one |
-| [Reflective piece](reflection.md) | 1,000-word reflection (also submitted separately) |
+| [Reflective piece](reflection.md) | 1,000-word reflection (also submitted separately as a document) |
 | [References](references.md) | Full reference list (Harvard) |
 
 ## Learning outcomes
